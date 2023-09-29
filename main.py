@@ -4,4 +4,4 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-a
+a = 5
