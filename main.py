@@ -18,3 +18,5 @@ with open('trial.txt', 'r') as file:
 
 tokens = tokenize(text)
 print(tokens)
+
+print("Success")
